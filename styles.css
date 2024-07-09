@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+    position: absolute;
+    top:50px;
+    left: 160px;
+
+
+}
+#br,#old{
+    background-color:blueviolet;
+    height:25px;
+    width:70px;
+    border: 3px solid black;
+}
+#ch,#mom{
+    background-color: #F0B634;
+    height:25px;
+    width:85px;
+}
+#co,#wo{
+    background-color: #a4c76a;
+    height:25px;
+    width:70px;
+}
+#sc,#ma{
+    background-color: #ff5c48;
+    height:25px;
+    width:70px;
+}

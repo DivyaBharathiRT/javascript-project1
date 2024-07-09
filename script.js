@@ -1,0 +1,34 @@
+document.getElementById("br").addEventListener("click",function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2024/04/08/16/58/baby-8683957_640.jpg"
+    document.getElementById("image").height="500";
+    document.getElementById("image").style.border=" thick solid #20BB8C";
+})
+    document.getElementById("ch").addEventListener("click",function(){
+        document.getElementById("image").src="https://cdn.pixabay.com/photo/2024/03/01/15/45/ai-generated-8606784_960_720.png"
+        document.getElementById("image").height="500";
+});
+document.getElementById("sc").addEventListener("click",function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2024/02/28/12/56/girl-8602014_1280.png"
+    document.getElementById("image").height="500";
+});
+document.getElementById("co").addEventListener("click",function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2021/09/07/20/27/woman-6604886_1280.jpg"
+    document.getElementById("image").height="500";
+
+});
+document.getElementById("wo").addEventListener("click",function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2023/10/31/23/52/generated-to-8356214_1280.png"
+    document.getElementById("image").height="500";
+});
+document.getElementById("ma").addEventListener("click",function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2020/10/22/18/21/wedding-5676778_640.png"
+    document.getElementById("image").height="500";
+});
+document.getElementById("mom").addEventListener("click",function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2016/09/05/12/22/mother-and-baby-1646450_640.jpg"
+    document.getElementById("image").height="500";
+});
+document.getElementById("old").addEventListener("click",function(){
+    document.getElementById("image").src="https://media.istockphoto.com/id/2150824912/vector/granny-and-granddaughter-are-hugging-each-other.jpg?s=2048x2048&w=is&k=20&c=fdbZc37E9dlG3TEICrM-U_abAvzqFOO4QQpABg69GNc="
+    document.getElementById("image").height="500";
+});
